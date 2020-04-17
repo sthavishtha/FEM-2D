@@ -1,0 +1,57 @@
+order of accuracy test for 2D diffusion equation 
+with MMS solutions
+
+bilinear shape functions, 2x2 GL quadrature
+2.5000e-01	8.716565e-02
+1.2500e-01	2.184438e-02
+6.2500e-02	5.464083e-03
+3.1250e-02	1.366203e-03
+1.5625e-02	3.415622e-04
+7.8125e-03	8.539125e-05
+
+Order of accuracy:       1.9993 
+Correlation coefficient: 1.0000 
+
+biquadratic shape functions, 2x2 GL quadrature
+1.2500e-01	2.717701e-03
+6.2500e-02	3.422732e-04
+3.1250e-02	4.288628e-05
+1.5625e-02	5.364138e-06
+7.8125e-03	6.706233e-07
+
+Order of accuracy :       2.9965 
+Correlation coefficient : 1.0000
+
+biquadratic shape functions, 3x3 GL quadrature
+1.2500e-01	2.703869e-03
+6.2500e-02	3.383269e-04
+3.1250e-02	4.231138e-05
+1.5625e-02	5.289730e-06
+7.8125e-03	6.612605e-07
+
+Order of accuracy :       2.9994 
+Correlation coefficient : 1.0000
+
+order of accuracy test for 2D elasticity equation 
+with MMS solutions
+
+bilinear shape functions, 2x2 GL quadrature
+2.5000e-01  	1.195967e-02
+1.2500e-01	2.970692e-03
+6.2500e-02	7.410421e-04
+3.1250e-02	1.851371e-04
+1.5625e-02  	4.627524e-05
+
+Order of accuracy:       2.0032 
+Correlation coefficient: 1.0000
+
+biquadratic shape functions, 3x3 GL quadrature
+2.5000e-01	1.263989e-03
+1.2500e-01	1.593697e-04
+6.2500e-02	1.843803e-05
+3.1250e-02	2.182951e-06
+1.5625e-02	2.674489e-07
+
+Order of accuracy:       3.0603 
+Correlation coefficient: 1.0000
+

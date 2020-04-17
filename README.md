@@ -7,3 +7,4 @@ course 651-4144-00L [__Introduction to Finite Element Modelling in Geosciences__
 - Elasticity equation (solid mechanics)
 - Dam break flow (stokes flow)
 - Viscous fingering in porous media (darcy and advection-diffusion equations) 
+- Code verification employing the method of manufactured solutions and computing the order of accuracy
